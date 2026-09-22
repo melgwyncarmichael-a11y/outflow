@@ -1,0 +1,70 @@
+receipt_id,date,expense_category,description,total
+RST-260709-007,09/07/26,Restaurant,Toast Box - NTU Canteen,30.96
+ENT-260710-004,10/07/26,Entertainment,Amazonia Escape Room,100.58
+GRO-260711-010,11/07/26,Grocery,Don Don Donki - Orchard,31.29
+RST-260711-008,11/07/26,Restaurant,Ya Kun Kaya Toast,49.47
+ENT-260712-005,12/07/26,Entertainment,K Suites KTV,41.58
+ENT-260713-006,13/07/26,Entertainment,Universal Studios Singapore,32.86
+RST-260714-009,14/07/26,Restaurant,Astons Specialities,20.19
+ENT-260715-007,15/07/26,Entertainment,Amazonia Escape Room,139.67
+RST-260715-010,15/07/26,Restaurant,Toast Box - NTU Canteen,33.51
+RST-260718-011,18/07/26,Restaurant,Old Chang Kee,38.21
+RST-260719-012,19/07/26,Restaurant,McDonald's - Boon Lay,34.57
+ENT-260720-008,20/07/26,Entertainment,HomeTeamNS Bowling,111.07
+GRO-260720-011,20/07/26,Grocery,Cold Storage - Jurong Point,17.71
+RST-260720-013,20/07/26,Restaurant,Old Chang Kee,14.54
+ENT-260722-009,22/07/26,Entertainment,Cathay Cineplex - The Star Vista,123.81
+RST-260722-014,22/07/26,Restaurant,Toast Box - NTU Canteen,33.41
+RST-260723-015,23/07/26,Restaurant,Nasi Lemak Ayam Taliwang,16.74
+GRO-260724-012,24/07/26,Grocery,Giant Hypermarket - Boon Lay,87.91
+GRO-260725-013,25/07/26,Grocery,Cold Storage - Jurong Point,28.83
+RST-260725-016,25/07/26,Restaurant,Paradise Dynasty,53.45
+RST-260726-017,26/07/26,Restaurant,Din Tai Fung - JEM,10.63
+GRO-260727-014,27/07/26,Grocery,Giant Hypermarket - Boon Lay,74.63
+RST-260728-018,28/07/26,Restaurant,Astons Specialities,14.92
+ENT-260729-010,29/07/26,Entertainment,Amazonia Escape Room,104.12
+RST-260729-019,29/07/26,Restaurant,Astons Specialities,46.78
+RST-260730-020,30/07/26,Restaurant,Paradise Dynasty,29.66
+GRO-260731-015,31/07/26,Grocery,Cold Storage - Jurong Point,9.83
+GRO-260731-016,31/07/26,Grocery,Giant Hypermarket - Boon Lay,28.02
+GRO-260801-017,01/08/26,Grocery,FairPrice Finest - JEM,13.12
+RST-260804-021,04/08/26,Restaurant,Ippudo Ramen - JEM,42.12
+GRO-260805-018,05/08/26,Grocery,Giant Hypermarket - Boon Lay,58.13
+RST-260806-022,06/08/26,Restaurant,Old Chang Kee,16.28
+RST-260808-023,08/08/26,Restaurant,McDonald's - Boon Lay,52.65
+GRO-260810-019,10/08/26,Grocery,NTUC FairPrice - Nanyang Ave,29.63
+RST-260810-024,10/08/26,Restaurant,Paradise Dynasty,49.23
+RST-260811-025,11/08/26,Restaurant,Old Chang Kee,15.91
+ENT-260812-011,12/08/26,Entertainment,Cathay Cineplex - The Star Vista,70.39
+ENT-260813-012,13/08/26,Entertainment,Universal Studios Singapore,75.17
+GRO-260813-020,13/08/26,Grocery,Sheng Siong Supermarket,22.47
+RST-260813-026,13/08/26,Restaurant,Ya Kun Kaya Toast,58.33
+ENT-260814-013,14/08/26,Entertainment,Marina Bay Sands SkyPark,48.15
+GRO-260814-021,14/08/26,Grocery,Don Don Donki - Orchard,32.82
+GRO-260814-022,14/08/26,Grocery,FairPrice Finest - JEM,91.29
+GRO-260815-023,15/08/26,Grocery,Giant Hypermarket - Boon Lay,13.3
+RST-260815-027,15/08/26,Restaurant,Ippudo Ramen - JEM,17.76
+RST-260815-028,15/08/26,Restaurant,Ya Kun Kaya Toast,37.28
+GRO-260816-024,16/08/26,Grocery,Don Don Donki - Orchard,51.75
+ENT-260817-014,17/08/26,Entertainment,Cathay Cineplex - The Star Vista,99.4
+GRO-260817-025,17/08/26,Grocery,Sheng Siong Supermarket,13.96
+GRO-260817-026,17/08/26,Grocery,Sheng Siong Supermarket,43.13
+GRO-260818-027,18/08/26,Grocery,Cold Storage - Jurong Point,89.32
+RST-260818-029,18/08/26,Restaurant,Din Tai Fung - JEM,28.64
+RST-260818-030,18/08/26,Restaurant,Nasi Lemak Ayam Taliwang,36.52
+RST-260819-031,19/08/26,Restaurant,Genki Sushi - Jurong Point,20.34
+RST-260820-032,20/08/26,Restaurant,McDonald's - Boon Lay,23.07
+GRO-260821-028,21/08/26,Grocery,Giant Hypermarket - Boon Lay,94.66
+RST-260821-033,21/08/26,Restaurant,Din Tai Fung - JEM,35.03
+GRO-260822-029,22/08/26,Grocery,NTUC FairPrice - Nanyang Ave,84.5
+GRO-260822-030,22/08/26,Grocery,Cold Storage - Jurong Point,32.79
+RST-260823-034,23/08/26,Restaurant,Ippudo Ramen - JEM,39.03
+ENT-260824-015,24/08/26,Entertainment,Timezone Arcade - Jem,48.06
+GRO-260824-031,24/08/26,Grocery,NTUC FairPrice - Nanyang Ave,89.69
+RST-260824-035,24/08/26,Restaurant,Ippudo Ramen - JEM,56.31
+GRO-260825-032,25/08/26,Grocery,Sheng Siong Supermarket,67.81
+GRO-260825-033,25/08/26,Grocery,Cold Storage - Jurong Point,51.97
+RST-260825-036,25/08/26,Restaurant,Genki Sushi - Jurong Point,44.75
+ENT-260826-016,26/08/26,Entertainment,Golden Village Cinema - JEM,26.54
+GRO-260827-034,27/08/26,Grocery,NTUC FairPrice - Nanyang Ave,37.02
+ENT-260828-017,28/08/26,Entertainment,Timezone Arcade - Jem,107.65
